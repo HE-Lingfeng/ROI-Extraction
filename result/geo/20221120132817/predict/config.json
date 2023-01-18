@@ -1,0 +1,20 @@
+{
+    "TRAIN": {
+        "train_dir": "./dataset/geo/train/data/fore",
+        "cam_dir": "/student/hlf/hlf/gradcam/result_3/geo_151+129",
+        "BATCH_SIZE": 8,
+        "LR": 5e-05,
+        "EPOCH": 100,
+        "save_frequence": 5,
+        "GPU": 0,
+        "arch": "s",
+        "print_fre": 1000
+    },
+    "VALID": {
+        "test_dir": "./dataset/geo/test/data/fore",
+        "cam_dir": "./dataset/geo/test/label",
+        "model_path": "./checkpoint/geo/20221120132817",
+        "save_dir": "./result/geo/20221120132817/train",
+        "pre_dir": "./result/geo/20221120132817/predict"
+    }
+}
