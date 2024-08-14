@@ -1,4 +1,4 @@
-# Weakly-supervised ROI extraction method based on contrastive learning for remote sensing images
+# Weakly-supervised ROI Extraction Method Based on Contrastive Learning for Remote Sensing Images
 
 by Lingfeng He, Mengze Xu, Jie Ma
 
