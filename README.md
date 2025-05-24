@@ -1,6 +1,6 @@
 # Weakly-supervised ROI Extraction Method Based on Contrastive Learning for Remote Sensing Images
 
-by Lingfeng He$^{1}$, Mengze Xu$^{1}$, Jie Ma$^{1}$
+by Lingfeng He$^1$, Mengze Xu$^1$, Jie Ma$^1$
 
 [![](https://img.shields.io/badge/arxiv-page-red)](https://arxiv.org/abs/2305.05887)
 
